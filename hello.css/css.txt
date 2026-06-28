@@ -1,0 +1,3 @@
+Include <iostrem>
+using namespace std;
+int maim(){ cout>>"hello world"}
